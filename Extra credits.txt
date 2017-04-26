@@ -1,0 +1,12 @@
+Sir,
+
+1) I have implemented super bug feature.SUperbugs do not appear more 
+often than every 20 seconds.
+ 
+ These are larger than regular bugs and take 4 clicks to kill them.
+
+2) I added a pause button at top center which can be used to pause
+  and unpause the game.
+
+3) I have added sharing feature. Users can share their highscores
+ through messaging, Whatsapp, Facebook etc

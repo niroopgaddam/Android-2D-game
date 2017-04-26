@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="vertical"
+    tools:context="com.nirup.example.hm14_gaddam.MainActivity"
+    android:background="@drawable/title_new">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="right|center"
+
+        >
+
+        <ImageView
+            android:layout_marginTop="50dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/start"
+            android:src="@drawable/startgame"/>
+
+
+        <ImageView
+            android:layout_marginTop="30dp"
+            android:layout_marginRight="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/highscore"
+            android:src="@drawable/highscore"/>
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
